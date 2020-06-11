@@ -26,7 +26,7 @@ public enum ArticleTypeEnum {
     /**
      * 翻译
      */
-    TRANSLATE(3, "转载");
+    TRANSLATE(3, "翻译");
 
     ArticleTypeEnum(int type, String descp) {
         this.type = type;
